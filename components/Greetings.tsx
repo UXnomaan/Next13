@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { getUserFromCookie } from "@/lib/auth";
 import { cookies } from "next/headers";
 import Button from "./Button";
